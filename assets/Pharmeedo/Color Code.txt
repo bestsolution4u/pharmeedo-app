@@ -1,0 +1,6 @@
+Green: #4b960a
+Grey:  #676c75
+
+
+DOMAIN_API=https://valcom.sd/pharmeedo
+DOMAIN_API=https://valcom.sd/pharmeedo/index.php/shop/
